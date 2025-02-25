@@ -4,6 +4,6 @@ Due to privacy reasons, the actual training and testing data are not present. Ho
 
 Additionally, the code that was used to generate the figure is in the repo (training_testing_fig.py). This way, you can compare the distribution of your datasets with the originals that were used. 
 
-Some of the models were entered into a private kaggle competitition. A screenshot containing those results is present within the repo. 
+Some of the models were entered into a private kaggle competitition. A screenshot containing those results is present within the repo (Emotional_Sentiment_Kaggle_Results.png).  
 
 
