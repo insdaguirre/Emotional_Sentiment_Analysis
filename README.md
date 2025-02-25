@@ -1,4 +1,4 @@
-This repo contains a .IPYNB that explores the performance of various machine learning techniques in the context of Emotional Sentiment Analysis. 
+This repo contains a python notebook (emotional_sentiment.ipynb) that explores the performance of various machine learning techniques in the context of Emotional Sentiment Analysis. 
 
 Due to privacy reasons, the actual training and testing data are not present. However, the distribution of the lengths of each text sample are (training_testing_dist_figure.png). 
 
@@ -7,5 +7,3 @@ Additionally, the code that was used to generate the figure is in the repo (trai
 Some of the models were entered into a private kaggle competitition. A screenshot containing those results is present within the repo. 
 
 
-
-Repo Contents: 
